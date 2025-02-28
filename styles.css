@@ -10,13 +10,13 @@ h1, h2 {
     text-decoration: underline; /* Underlining the headings */
 }
 
-h1 {
+/* h1 {
     font-size: 22px;
-}
+} */
 
-h2 {
+/* h2 {
     font-size: 18px;
-}
+} */
 
 .blog-section {
     border: 1px solid black;
