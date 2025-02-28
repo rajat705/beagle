@@ -30,7 +30,7 @@ A simple and elegant webpage dedicated to Beagles, featuring their history, imag
 ## 🔗 Live Demo
 
 Check out the deployed version on **GitHub Pages**:  
-👉 **[Live Demo](https://rajat705.github.io/beagle-blog/)**  
+👉 **[Live Demo](https://beagle-blogs.netlify.app/)**  
 
 ---
 
